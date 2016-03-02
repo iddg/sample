@@ -1,1 +1,1 @@
-# sample
+# Some sample CSS
